@@ -1,1 +1,1 @@
-print("this is a second code of github account")
+print("this is a second code of github account and i practice github for push my python code")
