@@ -24,4 +24,8 @@ ls
 git status
 git restore testing.py
 ls
+
 git status
+clear
+
+this is new changes
