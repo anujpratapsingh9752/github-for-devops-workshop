@@ -29,3 +29,6 @@ git status
 clear
 
 this is new changes
+
+tis commands is vey useful for linux user
+
