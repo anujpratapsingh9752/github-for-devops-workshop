@@ -1,0 +1,36 @@
+An array is an ordered collection of data, typically stored in a single variable and accessed by a numeric index. In programming, this structure allows you to store multiple values (like numbers, strings, or other objects) and access them efficiently. The term also has a more general meaning of an impressive group or arrangement of things, people, or concepts, notes Cambridge Dictionary and Merriam-Webster. 
+In computer programming
+Collection of data: An array holds a list of values, also known as elements, under a single variable name.
+Ordered: The elements are stored in a specific sequence and are ordered by their index.
+Zero-indexed: The first element of an array is at index 0, the second at index 1, and so on.
+Dynamic size: Many programming languages allow arrays to grow or shrink as elements are added or removed.
+Access: You access individual elements using their index, for example, cars[0] would retrieve the first item in a cars array. 
+In a general context
+Arrangement: An array can refer to a large group of items arranged in a particular order. For example, a table might have an "array of food" or a group of people might be "arrayed" in rows.
+Variety: It can also mean a large or impressive assortment of things, such as "a whole array of problems". 
+Example
+Imagine you want to store the names of three cars. Instead of using three separate variables:
+let car1 = "Saab";
+let car2 = "Volvo";
+let car3 = "BMW"; 
+You can use an array to store them all under a single name:
+const cars = ["Saab", "Volvo", "BMW"]; 
+Then, you can access each car by its index: 
+cars[0] returns "Saab".
+cars[1] returns "Volvo".
+cars[2] returns "BMW". 
+JavaScript Arrays - W3Schools
+JS Reference. JavaScript Arrays. ❮ Previous Next ❯ Example. const cars = ["Saab", "Volvo", "BMW"]; Try it Yourself » An Array is a...
+
+W3Schools
+Array - Glossary - MDN Web Docs
+An array is an ordered collection of data (either primitive or object depending upon the language). Arrays are used to store multi...
+
+MDN Web Docs
+ARRAY | English meaning - Cambridge Dictionary
+Meaning of array in English. ... a large group of things or people, especially one that is attractive or causes admiration or has ...
+
+Cambridge Dictionary
+Show all
+
+new changes check by me
